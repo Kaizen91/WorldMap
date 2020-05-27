@@ -6,3 +6,6 @@ This project was built to demonstrate:
     Creating a base map object.
     Adding marker objects based on longitude and latitude from a file load.
     Adding a GeoJson Polygon layer.
+
+See the map here:
+https://kaizen91.github.io/WorldMap/index
