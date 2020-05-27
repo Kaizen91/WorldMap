@@ -13,7 +13,7 @@ def color_producer(elevation):
         return "orange"
     else:
         return "red"
-map = folium.Map(location = [38.58, -99.09], tiles = "Stamen Terrain",  zoom_start = 6)
+map = folium.Map(location = [38.58, -99.09], tiles = "Stamen Terrain",  zoom_start = 1)
 
 fgv = folium.FeatureGroup(name = "Volcanos")
 
